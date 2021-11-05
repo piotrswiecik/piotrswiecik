@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in Python, C++ and C.
-- 🌱 I’m currently learning machine learning and Python applications in finance.
+- 👀 I’m interested in quantitative finance, applied mathematics and macroeconomics.
+- 🌱 I’m currently working in Java, C, JavaScript and Python.
 - 💞️ I’m looking to collaborate on quantitative finance projects.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
