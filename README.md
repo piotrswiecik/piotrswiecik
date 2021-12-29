@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in quantitative finance, applied mathematics and artificial intelligence.
-- 🌱 I’m currently working in Java, C++ and C.
-- 💞️ I’m looking to collaborate on quantitative finance & ML projects.
+- 👀 I’m interested in applied mathematics, artificial intelligence and cloud technologies.
+- 🌱 I’m currently working in Java, Python and C++.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
