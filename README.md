@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
 - 👀 I’m interested in applied mathematics, artificial intelligence and cloud technologies.
-- 🌱 I’m currently working in Java, Python and C++.
+- 🌱 I’m currently working in Python, JS, C++ and Go.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
