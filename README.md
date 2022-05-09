@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in cloud development, serverless & AI.
-- 🌱 I’m currently working in Python, JS and C++.
+- 👀 I’m interested in cloud technologies, web frameworks & applied ML.
+- 🌱 I’m currently working in Python, Go and C++.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
