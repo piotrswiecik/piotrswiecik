@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in cloud technologies, web frameworks & applied ML.
+- 👀 I’m interested in cloud technologies, serverless & web frameworks.
 - 🌱 I’m currently working in Python, JS, Go and C++.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
