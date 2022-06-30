@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in cloud technologies, serverless & web frameworks.
-- 🌱 I’m currently working in Python, JS, Go and C++.
+- 👀 I’m interested in full-stack development and cloud engineering.
+- 🌱 I’m currently working in Python, C++, Vue & Angular.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
