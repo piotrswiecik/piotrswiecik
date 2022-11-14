@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in cloud engineering, devops & Linux.
-- 🌱 I’m currently working in Python, C & Go.
+- 👀 I’m interested in fullstack dev & cloud engineering.
+- 🌱 I’m currently working in Python, TypeScript & Go.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
