@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in fullstack dev & cloud engineering.
+- 👀 I’m interested in devops & cloud engineering.
 - 🌱 I’m currently working in Python & TypeScript.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
