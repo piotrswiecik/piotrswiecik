@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
 - 👀 I’m interested in devops & cloud engineering.
-- 🌱 I’m currently working in Python and Golang.
+- 🌱 I’m currently working in Python.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
