@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
 - 👀 I’m interested in software development & devops tooling.
-- 🌱 I’m currently working in Python, Java and Angular on K8S and AWS infrastructure.
+- 🌱 I’m currently working in TypeScript, .NET and Python.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
