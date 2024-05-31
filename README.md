@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
 - 👀 I’m interested in fullstack development, Kubernetes & cloud architecture.
-- 🌱 I’m currently working in Python & TypeScript.
+- 🌱 I’m currently working in .NET, TypeScript & Python.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
