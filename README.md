@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
-- 👀 I’m interested in AI/ML, Kubernetes & cloud architecture.
-- 🌱 I’m currently working in Python, Go & TypeScript.
+- 👀 I’m interested in building things and connecting dots.
+- 🌱 I’m currently working in Python, C# and Typescript.
 - 📫 How to reach me: piotr.swiecik@gmail.com
 
 <!---
