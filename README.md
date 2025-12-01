@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @piotrswiecik
 - 👀 I’m interested in building things and connecting dots.
-- 🌱 I’m currently working in Python, C# and Typescript.
+- 🌱 I’m working in Python and C# in asset management and artificial intelligence domains.
 - 📫 How to reach me: piotr.swiecik@gmail.com
+- 💻 Visit me at: capricorndev.pl
 
 <!---
 piotrswiecik/piotrswiecik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
