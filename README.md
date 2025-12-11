@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrswiecik
 - 👀 I’m interested in building things and connecting dots.
-- 🌱 I’m working in Python and C# in asset management and artificial intelligence domains.
+- 🌱 I’m working with Python, C# and Go in asset management and artificial intelligence domains.
 - 📫 How to reach me: [piotr.swiecik@gmail.com](mailto:piotr.swiecik@gmail.com)
 - 💻 Visit me at: [capricorndev.pl](https://capricorndev.pl)
 
